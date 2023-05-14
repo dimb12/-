@@ -1,6 +1,6 @@
 body {
   font-family: "Helvetica";
-  background-color: #f6f8fa;
+  background-color: #E0FFFF;
   color: #24292f;
   display: flex;
   flex-direction: column;
@@ -29,14 +29,14 @@ body {
 }
 
 .header__subtitle {
-  color: #24292f;
+  color: #000000;
   font-size: 16px;
   line-height: 1.4;
   margin: 0;
 }
 
 .header_1 {
-  color: #24292f;
+  color: #000000;
   font-size: 14px;
   line-height: 1.4;
   margin: 0;
